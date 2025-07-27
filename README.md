@@ -18,6 +18,17 @@ The company needs meaningful insights on transaction performance, customer purch
 - Designed an interactive Power BI dashboard with dynamic visuals and slicers to clearly communicate insights.
 ## Dashboard
 <a href="https://github.com/Zainabjoy/SHOPIFY_SALES_AND_CUSTOMER_REPORT/blob/main/SHOPIFY%20SALES.pbix">Shopify Sales Dashboard</a>
+## Dashboard Features
+- A dedicated drill-through page to explore transaction-level or detailed data.
+•	Interactive charts and KPIs that allow drill-through navigation to see underlying records.
+•	The ability to analyze data at a granular level, such as by customer, product type, or individual order.
+•	Summarized insights with visuals that validate key metrics using the raw data behind them.
+
+
+
+
+
+
 
 
 
